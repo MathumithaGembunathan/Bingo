@@ -51,3 +51,7 @@ elif ch=='c':
 else:
   print("Thank you for ur time :)")
 ~~~
+# OUTPUT
+![image](https://github.com/user-attachments/assets/ea6ab57a-51a6-4589-9e34-8b3f9832aa3f)
+![image](https://github.com/user-attachments/assets/fa5e7b92-3086-47ea-bc4a-0f2d34e3d3ea)
+
